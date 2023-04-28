@@ -1,4 +1,5 @@
 # My first Capstone Project
+Hotel Booking Analysis
 
 The data analysis of hotel booking shows various patterns and trends that provide insights into customer behavior and preferences. The data shows that Portugal accounts for the majority of cancellations. In general, City hotels charge more per person and per night than Resort hotels, with costs varied according to the season.
 
